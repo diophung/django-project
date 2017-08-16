@@ -1,0 +1,1415 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"frog",
+				"FrogJump\tclass"
+			],
+			[
+				"version",
+				"python_version\tfunction"
+			],
+			[
+				"vers",
+				"version_info\tinstance"
+			],
+			[
+				"con",
+				"convert_to_title\tfunction"
+			],
+			[
+				"num",
+				"num_of_bit\tstatement"
+			],
+			[
+				"max",
+				"max_items"
+			],
+			[
+				"current",
+				"current_top"
+			],
+			[
+				"nearby",
+				"nearby_row"
+			],
+			[
+				"bomb",
+				"bombs_coordinates"
+			],
+			[
+				"Comp",
+				"CompetitionId"
+			],
+			[
+				"Pri",
+				"PrizeMoney"
+			],
+			[
+				"exp",
+				"expected"
+			],
+			[
+				"Mer",
+				"MerchantAccountID"
+			],
+			[
+				"Merchan",
+				"MerchantAccount"
+			],
+			[
+				"Merch",
+				"merchantAccountID"
+			],
+			[
+				"BAnk",
+				"BankRoutingNumber"
+			],
+			[
+				"e",
+				"expectedBankAccountNumber"
+			],
+			[
+				"Bank",
+				"BankAccountNumber"
+			],
+			[
+				"fibo",
+				"FibonacciCalc"
+			],
+			[
+				"Fi",
+				"FibonacciCalc"
+			],
+			[
+				"scre",
+				"secret_name"
+			],
+			[
+				"ste",
+				"steJedds"
+			],
+			[
+				"Symm",
+				"SymmetryTaxTypeEnum"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "boardgames/boardgames/settings.py",
+			"settings":
+			{
+				"buffer_size": 3108,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Anaconda Python Builder",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Java/Ant.sublime-build",
+					""
+				],
+				[
+					"Packages/Java/JavaC.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Java/JavaC.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 125.0,
+		"last_filter": "install package",
+		"selected_items":
+		[
+			[
+				"install package",
+				"Package Control: Install Package"
+			],
+			[
+				"package control",
+				"Package Control: Remove Package"
+			],
+			[
+				"",
+				"Anaconda: Show error list"
+			],
+			[
+				"error",
+				"Anaconda: Show error list"
+			],
+			[
+				"unfol",
+				"Python Docstrings: Unfold"
+			],
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"markdown",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install p",
+				"Package Control: Install Package"
+			],
+			[
+				"toggle",
+				"Toggle Comment"
+			],
+			[
+				"anaconda",
+				"Anaconda: Show error list"
+			],
+			[
+				"pyt",
+				"Set Syntax: Python"
+			],
+			[
+				"ana",
+				"Anaconda: Show error list"
+			],
+			[
+				"travis",
+				"Travis CI: Show Build"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"find in ",
+				"Preferences: Key Bindings"
+			],
+			[
+				"build",
+				"MSBuildSelector: Build file"
+			],
+			[
+				"c#",
+				"Set Syntax: C#"
+			],
+			[
+				"python",
+				"Set Syntax: Python"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"sort",
+				"Sort Lines"
+			],
+			[
+				"wor",
+				"Word Wrap: Toggle"
+			],
+			[
+				"sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"glue",
+				"Glue - Launch"
+			],
+			[
+				"install pac",
+				"Package Control: Install Package"
+			],
+			[
+				"powershell",
+				"Set Syntax: PowerShell"
+			],
+			[
+				"install pack",
+				"Package Control: Install Package"
+			],
+			[
+				"batch",
+				"Set Syntax: Batch File"
+			],
+			[
+				"word",
+				"Word Wrap: Toggle"
+			],
+			[
+				"shell",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"Install package",
+				"Package Control: Install Package"
+			],
+			[
+				"Install Pack",
+				"Package Control: Install Package"
+			],
+			[
+				"Install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove pac",
+				"Package Control: Remove Package"
+			],
+			[
+				"indent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"inden",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"reindent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"termin",
+				"Terminal: Open in project folder"
+			],
+			[
+				"prv",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"git reset",
+				"Git: Reset (unstage) All"
+			],
+			[
+				"fold",
+				"Preferences: SyntaxFold Keybindings - Default"
+			],
+			[
+				"Install Package",
+				"Package Control: Install Package"
+			],
+			[
+				"package in",
+				"Package Control: Install Package"
+			],
+			[
+				"Install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"Browse Pac",
+				"Preferences: Browse Packages"
+			],
+			[
+				"Browse",
+				"Preferences: Browse Packages"
+			],
+			[
+				"git:comm",
+				"Git: Commit"
+			],
+			[
+				"git: reset",
+				"Git: Reset (hard) HEAD"
+			],
+			[
+				"package ",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 440.0
+	},
+	"console":
+	{
+		"height": 730.0,
+		"history":
+		[
+			"ls -la",
+			"ls",
+			"dir",
+			"cmd",
+			"python",
+			"clear",
+			"subl",
+			"python jedd_compare.py",
+			"git status",
+			"git reset --hard",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/dio/Works/django-project"
+	],
+	"file_history":
+	[
+		"/Users/dio/Google Drive/Docs/Transaction/20170729_Car_ToyotaCamry_DublinCA/Camry Car Insurance/insurance_details.txt",
+		"/Users/dio/Google Drive/Docs/Career/Dio/Offer letters-Past employments/2017_Postmate_offer/Postmates final offer.txt",
+		"/Users/dio/Works/code-python/source/FrogJumps.py",
+		"/Users/dio/Works/code-python/source/BinaryTreeMultiOrder.py",
+		"/Users/dio/Works/code-python/source/BattleshipInABoard.py",
+		"/Users/dio/Desktop/test.nupkg",
+		"/Users/dio/Desktop/Tesla_Rob.txt",
+		"/Users/dio/Desktop/hello",
+		"/Users/dio/Desktop/SolarCity.txt",
+		"/Users/dio/Google Drive/Docs/Career/Dio/Resume & Interview/2017/05 SolarCity Tesla/With_product_manager_other_group.txt",
+		"/Users/dio/Desktop/pytest.py",
+		"/Users/dio/Works/end-to-end-negotiator/README.md",
+		"/Users/dio/Desktop/MapReduce/runner.py",
+		"/Users/dio/Google Drive/Backup/Settings-Info/SSH/id_rsa",
+		"/Users/dio/Desktop/MapReduce/mapper.py",
+		"/Users/dio/Desktop/MapReduce/mapreduce.py",
+		"/Users/dio/Works/code-python/source/TotalAverage.py",
+		"/Users/dio/Google Drive/Work/Xero/2017 - Development Plan/Dio Goals & Objectives.txt",
+		"/Users/dio/Works/contact-bot/app.py",
+		"/Users/dio/Works/close-chrome-tabs/background.js",
+		"/Users/dio/Works/read_large_text/Stream.py",
+		"/Users/dio/Desktop/Python ebooks/base62-shorturl.py",
+		"/Users/dio/Works/code-python/source/MatrixDiagonalDifference.py",
+		"/Users/dio/Works/code-practice/python/BinaryTreeMultiOrder.py",
+		"/Users/dio/Works/code-practice/java/src/datastructure/LinkedList.java",
+		"/Users/dio/Works/code-practice/java/src/algorithm/ClosestParentNode.java",
+		"/Users/dio/Works/learning-react/package.json",
+		"/Users/dio/Works/code-python/src/ExcelSheetColumn.py",
+		"/Users/dio/Works/code-python/tests/TestSuite.py",
+		"/Users/dio/Works/code-python/.travis.yml",
+		"/Users/dio/Works/code-python/README.md",
+		"/Users/dio/.ssh/id_rsa",
+		"/Users/dio/Works/code-python/src/Anagram.py",
+		"/Users/dio/Works/code-python/tests/__init__.py",
+		"/Users/dio/Works/code-python/src/BattleshipInABoard.py",
+		"/Users/dio/Works/code-python/src/BinaryGaps.py",
+		"/Users/dio/Works/code-python/__init__.py",
+		"/Users/dio/Works/code-python/src/BloomFilter.py",
+		"/Users/dio/Works/code-python/src/IntegerToWord.py",
+		"/Users/dio/Works/code-python/src/MoveZeroes.py",
+		"/Users/dio/Works/code-python/src/__init__.py",
+		"/Users/dio/Works/code-python/.gitignore",
+		"/Users/dio/Works/code-practice/python/requirements.txt",
+		"/Users/dio/Works/code-practice/.gitignore",
+		"/Users/dio/Works/code-practice/python/MaxDiff.py",
+		"/Users/dio/Works/code-practice/python/LongestSubstrWithNoDuplicate.py",
+		"/Users/dio/Works/code-practice/python/Permutation.py",
+		"/Users/dio/Works/code-practice/python/MaxSubArray.py",
+		"/Users/dio/Works/code-practice/python/data/eo.txt",
+		"/Users/dio/Works/code-practice/python/SetIntersection.py",
+		"/Users/dio/Works/code-practice/python/LeetCode419_BattleshipInABoard.py",
+		"/Users/dio/Works/code-practice/python/Anagram.py",
+		"/Users/dio/Works/code-practice/python/BinaryGaps.py",
+		"/C/Users/Dio/Desktop/word_count.py",
+		"/C/Users/Dio/Downloads/Compressed/creditcardfraud/creditcard.csv",
+		"/C/Works/code-practice/csharp/CSharpCodePractice/CSharpCodePractice/WordCount.cs",
+		"/C/Users/Dio/Desktop/capital.txt",
+		"/C/Users/Dio/Desktop/eo_vol1.txt",
+		"/C/Works/code-practice/python/MaxMinStack.py",
+		"/F/Clouds/Google Drive/Backup/Settings-Info/SSH_keys/20170423/rsa-key-20170423.openSSHkey",
+		"/C/Users/Dio/.ssh/id_rsa",
+		"/C/Works/code-practice/csharp/CSharpCodePractice/_ReSharper.Caches/ReSharperPlatformVs146.CSharpCodePractice.00/RecentActions/RecentActions.dat",
+		"/C/Works/code-practice/csharp/CSharpCodePractice/_ReSharper.Caches/ReSharperPlatformVs146.CSharpCodePractice.00/AssemblyResolutionCache10.dat",
+		"/C/Works/code-practice/python/Anagram.py",
+		"/C/Users/Dio/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Sublime/Data/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/Dio/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Sublime/Data/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Dio/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Sublime/Data/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Works/code-practice/java/src/problems/problems.md",
+		"/F/Clouds/Google Drive/Backup/Settings-Info/SSH_keys/github-Dio-and-Xero/xero_openssh_privatekey",
+		"/F/Clouds/Google Drive/Backup/Settings-Info/SSH_keys/github-Dio-and-Xero/xero_pubkey",
+		"/C/Users/Dio/Desktop/FacebookAdsBlocker/Facebook.html",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/Users/Dio/Desktop/blog/index.php",
+		"/C/Users/Dio/Desktop/installer.php",
+		"/D/Setup/Dev/OpenSSL/openssl-0.9.8h-1-src/src/openssl/0.9.8h/openssl-0.9.8h/LICENSE",
+		"/C/Windows/System32/drivers/etc/lmhosts.sam",
+		"/D/Setup/Dev/OpenSSL/openssl-0.9.8h-1-src/src/openssl/0.9.8h/openssl-0.9.8h/Makefile",
+		"/C/Dev/Payroll/project/Paycycle.EFile.DomainModel/IRS/Annual2016/2016v3.0/Common/DocumentsList.xsd",
+		"/C/Works/code-practice/python/MineSweeper.py",
+		"/C/Works/code-practice/csharp/CSharpCodePractice/CSharpCodePractice/ShortestPathInMaze.cs",
+		"/C/Users/Dio/Desktop/minesweep.py",
+		"/C/Users/Dio/Desktop/Microsoft.cs",
+		"/C/Works/code-practice/csharp/CSharpCodePractice/_ReSharper.Caches/ReSharperPlatformVs146.CSharpCodePractice.00/RecentItems/RecentFiles.dat",
+		"/C/Works/code-practice/python/SetIntersection.py",
+		"/C/Works/code-practice/python/GetRectCoordinate.py",
+		"/C/Works/code-practice/python/MergeIntervals.py",
+		"/C/Works/code-practice/csharp/CSharpCodePractice/CSharpCodePractice/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache",
+		"/C/Works/code-practice/python/MaxIntGivenDigits.py",
+		"/C/Works/code-practice/csharp/CSharpCodePractice/_ReSharper.Caches/ReSharperPlatformVs146.CSharpCodePractice.00/XmlIndex/System.Runtime.Serialization.Formatters.Soap.xml/E5940216.bin",
+		"/C/Works/code-practice/.editorconfig",
+		"/C/Dev/Payroll/project/Paycycle.Tests.Common/USTaxCalculator/TaxMetaData.TestData.Generated.cs",
+		"/C/Dev/Payroll/project/Paycycle.Database/Scripts/Post-Deployment/ReferenceData/US.TaxDefinition.data.sql",
+		"/C/Dev/Payroll/project/Paycycle.EFile.Tests.Common/USSettings/TaxDefinition.TestData.Generated.cs",
+		"/C/Dev/Payroll/project/Paycycle.Tests.Common/USSettings/TaxDefinition.TestData.Generated.cs",
+		"/C/Dev/Payroll/project/Paycycle.DomainModel/Entities/USTaxCalculator/TaxMetaData.Generated.cs",
+		"/C/Dev/Payroll/project/Paycycle.Database/Scripts/Post-Deployment/ReferenceData/USTaxCalculator.TaxMetaData.data.sql",
+		"/C/works/payroll-tools/unit-test/taxability.py",
+		"/C/Dev/Payroll/project/node_modules/tmp/test-all.sh",
+		"/C/works/Asker/AskerApp/tests.py",
+		"/C/Dev/Payroll/project/Paycycle.USTaxCalculator.Tests/TaxExtensions.cs",
+		"/C/Users/Dio/AppData/Roaming/CouchPotato/application/CouchPotato-3.0.1.win32/couchpotato/__init__.py",
+		"/C/Users/Dio/AppData/Roaming/CouchPotato/application/CouchPotato-3.0.1.win32/couchpotato/core/downloaders/blackhole.py",
+		"/C/Users/Dio/AppData/Roaming/CouchPotato/application/CouchPotato-3.0.1.win32/couchpotato/core/downloaders/utorrent.py",
+		"/C/works/code-practice/python/FrogJumps.py",
+		"/C/Users/Dio/AppData/Roaming/CouchPotato/application/CouchPotato-3.0.1.win32/couchpotato/__init__.pyc",
+		"/C/Dev/Payroll/project/package.json",
+		"/C/Dev/Payroll/project/Paycycle.MVC3/Web.config",
+		"/C/Dev/Payroll/project/Paycycle.PaymentGateway.Web/Web.config",
+		"/C/Dev/Payroll/project/Gruntfile.js",
+		"/C/Dev/Payroll/project/grunt/base-grunt-task.js",
+		"/C/Dev/Payroll/project/grunt/tasks/aliases.js",
+		"/C/Users/Dio/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Sublime/Data/Packages/Default/Preferences.sublime-settings",
+		"/C/Dev/Payroll/project/Paycycle.API.Tests/About_Leaves.cs",
+		"/C/works/AskerFE/app.js",
+		"/C/works/StructureMapTest/.gitignore",
+		"/C/Dev/Payroll/project/Paycycle.Database/Scripts/Post-Deployment/ReferenceData/US.TaxExemptionValue.data.sql",
+		"/C/Dev/Payroll/project/Paycycle.DomainModel/Entities/Customers/USCustomer.cs",
+		"/C/Dev/Payroll/project/Payroll.Service.Host/Controllers/Timesheets/TimesheetsController.cs",
+		"/C/Dev/Payroll/project/Paycycle.Audit.Database/US/Tables/TaxExemptionValue.sql",
+		"/C/Dev/Payroll/project/Paycycle.Audit.Database/US/Tables/TaxExemption.sql",
+		"/C/Dev/Payroll/project/Paycycle.Repository/ClassMaps/USSettings/TaxExemptionClassMap.cs",
+		"/C/Dev/Payroll/project/Paycycle.DomainModel/Symmetry/TaxEngineMetaDataCache.cs",
+		"/C/works/code-practice/python/IsPalindromeList.py",
+		"/C/Program Files/nodejs/node_modules/npm/npmrc",
+		"/C/Program Files/nodejs/node_modules/npm/Makefile",
+		"/C/Dev/Payroll/project/Paycycle.Database/Payroll/Tables/Payroll.PaySlipEarningsLine.table.sql",
+		"/C/Dev/Payroll/project/Paycycle.Audit.Database/Payroll/Tables/PaySlipEarningsLine.table.sql",
+		"/C/Dev/Payroll/project/Paycycle.NZPaySlipGenerator/PaySlipData.cs"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 250.0,
+		"where_history":
+		[
+			"",
+			"C:\\Works\\code-practice",
+			"<open files>",
+			"c:\\dev\\payroll, *.cs",
+			"c:\\dev, *.*",
+			"c:\\dev\\payroll, *.*",
+			"c:\\dev\\payroll, *.html",
+			"c:\\dev\\payroll, *.cs",
+			"c:\\dev\\payroll, *.*",
+			"c:\\dev\\payroll\\project,*.cs",
+			"c:\\dev\\payroll\\project,*.csproj,*.config",
+			"c:\\dev\\payroll\\project,*.*",
+			"c:\\dev\\payroll\\project\\paycycle.mvc3,*.*",
+			"c:\\dev\\payroll\\project\\paycycle.mvc3,*.css",
+			"c:\\dev\\payroll\\project\\paycycle.mvc3,*.js",
+			"c:\\dev\\payroll\\project\\paycycle.mvc3,*.*",
+			"c:\\dev\\payroll\\project\\paycycle.mvc3,**",
+			"c:\\dev\\payroll\\project\\paycycle.mvc3,*.html, *.htm",
+			"c:\\dev\\payroll\\project\\paycycle.mvc3,*.html",
+			"c:\\dev\\payroll\\project\\paycycle.mvc3,*.config",
+			"c:\\dev\\,*.config",
+			"c:\\dev\\payroll\\project\\Paycycle.MVC3\\",
+			"c:\\dev\\payroll\\project\\Paycycle.MVC3\\scripts",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Solve",
+			"run:",
+			"super+shift+",
+			"num",
+			"result",
+			"convertToNumber",
+			"18278",
+			"convertToTitle",
+			"res",
+			"n",
+			"browser",
+			"start",
+			"staticmethod",
+			"index",
+			"abcabcbb",
+			"get_longest_unique_substring",
+			"is_anagram_without_sort",
+			"is_anagram",
+			"None",
+			"lengthOfLongestSubstring",
+			"1",
+			"lengthOfLongestSubstring",
+			"min_items",
+			"count",
+			"totop_of_stackp",
+			"top",
+			"max_items",
+			"translate_tabs_to_spaces",
+			"jump_forward",
+			"min_history",
+			"max_history",
+			"select_",
+			"select",
+			"multi",
+			"max_history",
+			"minItems",
+			"max_history",
+			"proudly",
+			"substream_",
+			"false",
+			"rowNum",
+			"shortest",
+			"[-1",
+			"root",
+			"#",
+			";\\n",
+			"\r",
+			";",
+			"git",
+			";",
+			"DisplayNotification",
+			"EnsureRequirements",
+			"payslipearningsline",
+			".And.ExcessWagesShouldBe(990500);",
+			"1000000",
+			".And.SubjectWagesShouldBe(9750)",
+			".And.ExcessWagesShouldBe(500);",
+			"// sui = 9500 * 0.05",
+			"results.Tax(EmployerUI).Should().Be(475)",
+			".And.SubjectWagesShouldBe(9500)",
+			"results.Tax(EmployerUI).Should().Be(475M)\n                .And.GrossWagesShouldBe(10000)\n                .And.GrossSubjectWagesShouldBe(10000)\n                .And.SubjectWagesShouldBe(9500)\n                .And.ExcessWagesShouldBe(500);",
+			"32-000-0000-ER_SUTA_SC-023",
+			"TaxDefinitionTestData.GetById(1307)",
+			"TaxDefinitionTestData.GetById(407),",
+			"redis",
+			", 170,",
+			"redis",
+			"build",
+			"DefaultPaymentDate",
+			"c:\\",
+			"path",
+			"\r",
+			";",
+			"git",
+			"localhost",
+			"GetBankAccounts",
+			"SyncAndGetBankAccounts",
+			"SyncAccounts",
+			"SyncXeroLookupData",
+			"spSyncXeroLookupDataV2",
+			"\\",
+			"deploys",
+			"deployxml",
+			"harvest_webapps",
+			"dont_touch",
+			"ConnectionStrings",
+			"XERODBIDENTIFIER",
+			"Line",
+			"line_number",
+			"goto",
+			"line",
+			"TestCommand",
+			"$errorMessage",
+			"ErrorActionPreference",
+			"errorMessage",
+			"EnsureRequirements",
+			"TestCommand",
+			"submyandxero.db",
+			"EnsureRequirement",
+			"npm install",
+			"LastExitCode",
+			"DeployDatabase",
+			"PayrunType",
+			"@AnnualDepositors",
+			"\t",
+			"GetTaxMetaData",
+			"               ",
+			"USDeductionType ",
+			"style.removeAttribute(\"id\")",
+			"PublicName",
+			"ClientName",
+			"\\r\\n",
+			"14.0",
+			"14.9",
+			"ctrl+shift+t",
+			"line",
+			"<button",
+			"match",
+			"how",
+			"o",
+			"s",
+			"result",
+			"reference_source",
+			"base_source",
+			"output",
+			"ref",
+			"as",
+			"base"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": true,
+		"regex": false,
+		"replace_history":
+		[
+			"get_longest_unique_substring",
+			";",
+			"",
+			";\\r\\n",
+			"string",
+			".And.ExcessWagesShouldBe(990250);",
+			".And.ExcessWagesShouldBe(250);",
+			"// sui = WageBase * Rate",
+			"results.Tax(EmployerUI).Should().Be(487.5)",
+			".And.SubjectWagesShouldBe(9750)",
+			"results.Tax(EmployerUI).Should().Be(487.5M)\n                .And.GrossWagesShouldBe(10000)\n                .And.GrossSubjectWagesShouldBe(10000)\n                .And.SubjectWagesShouldBe(9750)\n                .And.ExcessWagesShouldBe(250);",
+			"",
+			";\\r\\n",
+			"\\\\",
+			"$nugetErr",
+			"@QuarterlyDepositors",
+			" ",
+			"",
+			"paySlip.Customer.DeductionTypes.Add(               ",
+			"$$\n                ",
+			"\n                ",
+			" ",
+			"127.0.0.1 ",
+			"    Apr",
+			"'",
+			"''",
+			"','",
+			"',",
+			"",
+			"',",
+			"',\\r\\n",
+			"',",
+			",\\r\\n"
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "boardgames/boardgames/settings.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3108,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2979,
+								2979
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 743.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 368.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.autopep8":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 143.0
+	},
+	"output.find_results":
+	{
+		"height": 824.0
+	},
+	"output.git":
+	{
+		"height": 168.0
+	},
+	"pinned_build_system": "",
+	"project": "django-project.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"bloom",
+				"source/BloomFilter.py"
+			],
+			[
+				"requirements",
+				"python/requirements.txt"
+			],
+			[
+				"shortestpat",
+				"code-practice\\csharp\\CSharpCodePractice\\CSharpCodePractice\\ShortestPathInMaze.cs"
+			],
+			[
+				"project/paycycle.tests.common/ussettings/taxdefinition.testdata.generated.cs",
+				"Payroll\\project\\Paycycle.Tests.Common\\USSettings\\TaxDefinition.TestData.Generated.cs"
+			],
+			[
+				"project/paycycle.efile.tests.common/ussettings/taxdefinition.testdata.generated.cs",
+				"Payroll\\project\\Paycycle.EFile.Tests.Common\\USSettings\\TaxDefinition.TestData.Generated.cs"
+			],
+			[
+				"project/paycycle.database/scripts/post-deployment/referencedata/us.taxdefinition.data.sql",
+				"Payroll\\project\\Paycycle.Database\\Scripts\\Post-Deployment\\ReferenceData\\US.TaxDefinition.data.sql"
+			],
+			[
+				"taxmetadata.generated",
+				"Payroll\\project\\Paycycle.Tests.Common\\USTaxCalculator\\TaxMetaData.TestData.Generated.cs"
+			],
+			[
+				"base-grunt-task",
+				"Payroll\\project\\grunt\\base-grunt-task.js"
+			],
+			[
+				"alias",
+				"Payroll\\project\\grunt\\tasks\\aliases.js"
+			],
+			[
+				"paycycle.domainmodel/entities/customers/uscustomer.cs",
+				"Payroll\\project\\Paycycle.DomainModel\\Entities\\Customers\\USCustomer.cs"
+			],
+			[
+				"taxexmeptionvalue.data",
+				"Payroll\\project\\Paycycle.Database\\Scripts\\Post-Deployment\\ReferenceData\\US.TaxExemptionValue.data.sql"
+			],
+			[
+				"payroll.service.host/controllers/timesheets/timesheetscontroller.cs",
+				"Payroll\\project\\Payroll.Service.Host\\Controllers\\Timesheets\\TimesheetsController.cs"
+			],
+			[
+				"payslipearningsline.table",
+				"Payroll\\project\\Paycycle.Audit.Database\\Payroll\\Tables\\PaySlipEarningsLine.table.sql"
+			],
+			[
+				"payslipearningslineclassmap",
+				"Payroll\\project\\Paycycle.Repository\\ClassMaps\\PayRuns\\PaySlipEarningsLineClassMap.cs"
+			],
+			[
+				"settings.xml",
+				"Payroll\\project\\Paycycle.MVC.CodeGenerator\\Settings.xml"
+			],
+			[
+				"payslipearningsline.table.sql",
+				"Payroll\\project\\Paycycle.Audit.Database\\Payroll\\Tables\\PaySlipEarningsLine.table.sql"
+			],
+			[
+				"w2seriali",
+				"Payroll\\project\\Paycycle.EForms\\SerializationEngines\\W2SerializationEngine.cs"
+			],
+			[
+				"openingbalanceearnings.table",
+				"Payroll\\project\\Paycycle.Audit.Database\\Payroll\\Tables\\OpeningBalanceEarnings.table.sql"
+			],
+			[
+				"openingbalanceearnings",
+				"Payroll\\project\\Paycycle.DomainModel\\Entities\\OpeningBalances\\OpeningBalanceEarnings.cs"
+			],
+			[
+				"taxenginemetat",
+				"Payroll\\project\\Paycycle.DomainModel\\Symmetry\\TaxEngineMetaDataCache.cs"
+			],
+			[
+				"about_contri",
+				"Payroll\\project\\Paycycle.USTaxCalculator.Tests\\Common\\About_Contributions.cs"
+			],
+			[
+				"penntests2017",
+				"Payroll\\project\\Paycycle.USTaxCalculator.Tests\\Common\\TaxCalculations\\Supported2017\\PennsylvaniaStateTaxTests_2017.cs"
+			],
+			[
+				"pennsylvaniastatetaxtests_2016.cs",
+				"Payroll\\project\\Paycycle.USTaxCalculator.Tests\\Common\\TaxCalculations\\Supported2016\\PennsylvaniaStateTaxTests_2016.cs"
+			],
+			[
+				"nevadata",
+				"Payroll\\project\\Paycycle.USTaxCalculator.Tests\\Common\\TaxCalculations\\Supported2017\\NevadaStateTaxTests_2017.cs"
+			],
+			[
+				"paycycle.mvc3.csproj",
+				"Payroll\\project\\Paycycle.MVC3\\Paycycle.MVC3.csproj"
+			],
+			[
+				"us.taxcodemetadata.data.sql",
+				"Payroll\\project\\Paycycle.Database\\Scripts\\Post-Deployment\\ReferenceData\\US.TaxCodeMetaData.data.sql"
+			],
+			[
+				"project/paycycle.runonce.sln",
+				"Payroll\\project\\Paycycle.RunOnce.sln"
+			],
+			[
+				"taxmetadata.testdata.",
+				"Payroll\\project\\Paycycle.Tests.Common\\USTaxCalculator\\TaxMetaData.TestData.Generated.cs"
+			],
+			[
+				"test.py",
+				"payroll-tools\\unit-test\\test.py"
+			],
+			[
+				"taxmetadata.testdata.gen",
+				"project\\Paycycle.Tests.Common\\USTaxCalculator\\TaxMetaData.TestData.Generated.cs"
+			],
+			[
+				"paycycle.mvc3/web.config",
+				"project\\Paycycle.MVC3\\Web.config"
+			],
+			[
+				"project/paycycle.mvc3/paycycle.mvc3.csproj",
+				"Payroll\\project\\Paycycle.MVC3\\Paycycle.MVC3.csproj"
+			],
+			[
+				"project/paycycle.database/scripts/post-deployment/referencedata/us.taxcodemetadata.data.sql",
+				"Payroll\\project\\Paycycle.Database\\Scripts\\Post-Deployment\\ReferenceData\\US.TaxCodeMetaData.data.sql"
+			],
+			[
+				"project/symmetrytaxloader/program.cs",
+				"Payroll\\project\\SymmetryTaxLoader\\Program.cs"
+			],
+			[
+				"project/payroll.website.sln",
+				"Payroll\\project\\Payroll.Website.sln"
+			],
+			[
+				"project/paycycle.ustaxcalculator.tests/app.config",
+				"Payroll\\project\\Paycycle.USTaxCalculator.Tests\\App.config"
+			],
+			[
+				"project/paycycle.tests.common/ussettings/taxcodemetadata.testdata.generated.cs",
+				"Payroll\\project\\Paycycle.Tests.Common\\USSettings\\TaxCodeMetaData.TestData.Generated.cs"
+			],
+			[
+				"/paycycle.efile.tests.common/ussettings/taxcodemetadata.testdata.generated.cs",
+				"Payroll\\project\\Paycycle.EFile.Tests.Common\\USSettings\\TaxCodeMetaData.TestData.Generated.cs"
+			],
+			[
+				"taxmetadata.data.sql",
+				"Payroll\\project\\Paycycle.Database\\Scripts\\Post-Deployment\\ReferenceData\\USTaxCalculator.TaxMetaData.data.sql"
+			],
+			[
+				"web.config",
+				"Payroll\\project\\Paycycle.MVC3\\Web.config"
+			],
+			[
+				"readme.md",
+				"Payroll\\README.md"
+			],
+			[
+				"uspayslip.cs",
+				"Payroll\\project\\Paycycle.DomainModel\\Entities\\PayRuns\\USPaySlip.cs"
+			],
+			[
+				"version.template.txt",
+				"Payroll\\build\\version.template.txt"
+			],
+			[
+				"settings.",
+				"jarvis\\settings.py"
+			],
+			[
+				"payrunscontroller",
+				"project\\PaycycleMVC.Tests\\XPA\\PayRunsControllerTests.cs"
+			],
+			[
+				"syncup",
+				"Payroll\\project\\Paycycle.Database\\Integration\\Stored Procedures\\Integration.spSyncXeroLookupData.sql"
+			],
+			[
+				"areas/xpa/controllers/payrunscontroller.cs",
+				"Payroll\\project\\Paycycle.MVC3\\Areas\\XPA\\Controllers\\PayRunsController.cs"
+			],
+			[
+				"payroll/project/paycycle.domainmodel/entities/xero/organisationextendedinfo.cs",
+				"Payroll\\project\\Paycycle.DomainModel\\Entities\\Xero\\OrganisationExtendedInfo.cs"
+			],
+			[
+				"deploy",
+				"payroll-tools\\local-dev\\deploy.ps1"
+			],
+			[
+				"c",
+				"Payroll\\project\\CustomerExtractor.sln"
+			],
+			[
+				"payslipsummarydto.cs",
+				"Payroll\\project\\Paycycle.MVC3\\Areas\\XPA\\Models\\PaySlips\\PaySlipSummaryDTO.cs"
+			],
+			[
+				"project/paycycle.mvc3/areas/xpa/models/payruns/payrundetaildto.cs",
+				"Payroll\\project\\Paycycle.MVC3\\Areas\\XPA\\Models\\Payruns\\PayRunDetailDTO.cs"
+			],
+			[
+				"paycycle.database/scripts/post-deployment/referencedata/codetable.payruntype.data.sql",
+				"Payroll\\project\\Paycycle.Database\\Scripts\\Post-Deployment\\ReferenceData\\CodeTable.PayrunType.data.sql"
+			],
+			[
+				"sync.sql",
+				"Payroll\\project\\Paycycle.Database\\Integration\\Stored Procedures\\Integration.spSyncXeroLookupData.sql"
+			],
+			[
+				"spsyncacc",
+				"Payroll\\project\\Paycycle.Database\\Integration\\Stored Procedures\\Integration.spSynchroniseAccounts.proc.sql"
+			],
+			[
+				"spsync.sql",
+				"USPaymentGateway\\project\\Xero.USPaymentGateway.Database\\Integration\\Integration.spSyncXeroLookupData.sql"
+			],
+			[
+				"state_re",
+				"project\\SymmetryTaxLoader\\bin\\Debug\\state_reimport.bat"
+			],
+			[
+				"stateimporter",
+				"project\\SymmetryTaxLoader\\SymmetryTaxImporter.cs"
+			],
+			[
+				"deductioncategory.data.sql",
+				"project\\Paycycle.Database\\Scripts\\Post-Deployment\\ReferenceData\\CodeTable.DeductionCategory.data.sql"
+			],
+			[
+				"benefitcategory.data.sql",
+				"project\\Paycycle.Database\\Scripts\\Post-Deployment\\ReferenceData\\CodeTable.BenefitCategory.data.sql"
+			],
+			[
+				"codetable.deductioncategory.data.sql",
+				"project\\Paycycle.Database\\Scripts\\Post-Deployment\\ReferenceData\\CodeTable.DeductionCategory.data.sql"
+			],
+			[
+				"system.helptext.data.sql",
+				"project\\Paycycle.Database\\Scripts\\Post-Deployment\\ReferenceData\\System.HelpText.data.sql"
+			],
+			[
+				"deductionmetadata",
+				"project\\Paycycle.Tests.Common\\USTaxCalculator\\DeductionMetaData.TestData.Generated.cs"
+			],
+			[
+				"metadata.data.sql",
+				"project\\Paycycle.Database\\Scripts\\Post-Deployment\\ReferenceData\\USTaxCalculator.DeductionMetaData.data.sql"
+			],
+			[
+				"oauthex",
+				"project\\DevDefined\\DevDefined.OAuth\\Framework\\OAuthException.cs"
+			],
+			[
+				"datetimeutility",
+				"project\\DevDefined\\DevDefined.OAuth\\Framework\\DateTimeUtility.cs"
+			],
+			[
+				"taxformdepo",
+				"project\\Paycycle.Database\\Scripts\\Post-Deployment\\ReferenceData\\US.TaxFormDepositGroup.data.sql"
+			],
+			[
+				"tax.html",
+				"project\\Paycycle.MVC3\\scripts\\app\\viewmodels\\obligations\\details\\tax.html"
+			],
+			[
+				"taxdefinition.data.sql",
+				"project\\Paycycle.Database\\Scripts\\Post-Deployment\\ReferenceData\\US.TaxDefinitionMetaData.data.sql"
+			],
+			[
+				"mvc.sln",
+				"project\\Paycycle.mvc.sln"
+			],
+			[
+				"statecontroller",
+				"project\\Payroll.StateGenerator\\Controllers\\StateController.cs"
+			],
+			[
+				"michigan",
+				"project\\Paycycle.USTaxCalculator.Tests\\Common\\TaxCalculations\\Supported2016\\MichiganStateTaxTests_2016.cs"
+			],
+			[
+				"employeescontroller.cs",
+				"project\\Paycycle.MVC3\\Areas\\XPA\\Controllers\\EmployeesController.cs"
+			],
+			[
+				"ussettingreposit",
+				"project\\Paycycle.Repository\\Repositories\\USSettingsRepository.cs"
+			],
+			[
+				"ussettingrepository.cs",
+				"project\\Paycycle.EFile.Repository\\Repositories\\USSettingsRepository.cs"
+			],
+			[
+				"employeescontroller",
+				"project\\Paycycle.MVC3\\Areas\\XPA\\Controllers\\EmployeesController.cs"
+			],
+			[
+				"taxparameterlistitem.data.s",
+				"project\\Paycycle.Database\\Scripts\\Post-Deployment\\ReferenceData\\US.TaxParameterListItem.data.sql"
+			],
+			[
+				".sln",
+				"project\\Rose.sln"
+			],
+			[
+				"tail.cs",
+				"project\\Rose.Core\\Auditing\\Tail.cs"
+			],
+			[
+				"rose.core.",
+				"project\\Rose.Core\\Rose.Core.csproj"
+			],
+			[
+				"ohiotax",
+				"project\\Paycycle.Symmetry\\Builders\\States\\OhioTaxCalcBuilder.cs"
+			],
+			[
+				"ohio",
+				"project\\Paycycle.USTaxCalculator.Tests\\Common\\TaxCalculations\\Supported2016\\OhioStateTaxTests_2016.cs"
+			],
+			[
+				"fringebenefit.data.",
+				"project\\Paycycle.Database\\Scripts\\Post-Deployment\\ReferenceData\\USTaxCalculator.FringeBenefitTaxability.data.sql"
+			],
+			[
+				"michigant",
+				"project\\Paycycle.Symmetry\\Builders\\States\\MichiganTaxCalcBuilder.cs"
+			],
+			[
+				"fringebenefittaxability.data",
+				"project\\Paycycle.Database\\Scripts\\Post-Deployment\\ReferenceData\\USTaxCalculator.FringeBenefitTaxability.data.sql"
+			],
+			[
+				"deductiontaxability.data",
+				"project\\Paycycle.Database\\Scripts\\Post-Deployment\\ReferenceData\\USTaxCalculator.DeductionTaxability.data.sql"
+			],
+			[
+				"paycycle.mvc3.",
+				"project\\Paycycle.MVC3\\Paycycle.MVC3.csproj"
+			],
+			[
+				"paycycle.mvc.sln",
+				"project\\Paycycle.mvc.sln"
+			],
+			[
+				"payruncontroller",
+				"project\\Paycycle.MVC3\\Areas\\XPA\\Controllers\\PayRunsController.cs"
+			],
+			[
+				"pennsylvani",
+				"project\\Paycycle.Symmetry\\Builders\\States\\PennsylvaniaTaxCalcBuilder.cs"
+			],
+			[
+				"taxformdepositgroup.data.sql",
+				"project\\Paycycle.Database\\Scripts\\Post-Deployment\\ReferenceData\\US.TaxFormDepositGroup.data.sql"
+			],
+			[
+				"deductiontaxability.data.sql",
+				"project\\Paycycle.Database\\Scripts\\Post-Deployment\\ReferenceData\\USTaxCalculator.DeductionTaxability.data.sql"
+			],
+			[
+				"deductiontaxability.sql",
+				"project\\Paycycle.Audit.Database\\USTaxCalculator\\Tables\\DeductionTaxability.sql"
+			],
+			[
+				"classmap",
+				"project\\Paycycle.MVC.CodeGenerator\\Templates\\ClassMapTemplate.tt"
+			],
+			[
+				"helptext.data.sql",
+				"project\\Paycycle.Database\\Scripts\\Post-Deployment\\ReferenceData\\System.HelpText.data.sql"
+			],
+			[
+				"deduction.data.sql",
+				"project\\Paycycle.Database\\Scripts\\Post-Deployment\\ReferenceData\\USTaxCalculator.DeductionTaxability.data.sql"
+			],
+			[
+				"taxsettingmetadatadto",
+				"project\\Paycycle.MVC3\\Areas\\XPA\\Models\\EmployeeTaxes\\TaxSettingMetadataDTO.cs"
+			],
+			[
+				"taxparameterlist",
+				"project\\Paycycle.Database\\Scripts\\Post-Deployment\\ReferenceData\\US.TaxParameterListItem.data.sql"
+			],
+			[
+				"taxparameterlistitem",
+				"project\\Paycycle.Tests.Common\\USSettings\\TaxParameterListItem.TestData.Generated.cs"
+			],
+			[
+				"colorado",
+				"project\\Paycycle.USTaxCalculator.Tests\\Common\\TaxCalculations\\Supported2016\\ColoradoStateTaxTests_2016.cs"
+			],
+			[
+				"california",
+				"project\\Paycycle.USTaxCalculator.Tests\\Common\\TaxCalculations\\Supported2016\\CaliforniaStateTaxTests_2016.cs"
+			],
+			[
+				"taxexemption.data",
+				"project\\Paycycle.Database\\Scripts\\Post-Deployment\\ReferenceData\\US.TaxExemption.data.sql"
+			],
+			[
+				"islocaltax",
+				"project\\Paycycle.DomainModel\\BusinessLogic\\TaxSettings\\LocalTaxSettingsFilterFactory.cs"
+			],
+			[
+				"isuslocaltax",
+				"project\\Paycycle.DomainModel\\BusinessLogic\\TaxSettings\\LocalTaxSettingFilter.cs"
+			],
+			[
+				"local.",
+				"project\\Local.runsettings"
+			],
+			[
+				"locationcodecache.",
+				"project\\Paycycle.USTaxCalculator.Tests\\LocationCodeCache.cs"
+			],
+			[
+				"taxdefinition.testdata.",
+				"project\\Paycycle.Tests.Common\\USSettings\\TaxDefinition.TestData.Generated.cs"
+			],
+			[
+				"taxdefinition.testda",
+				"project\\Paycycle.EFile.Tests.Common\\USSettings\\TaxDefinition.TestData.Generated.cs"
+			],
+			[
+				"taxparameter.sql",
+				"project\\Paycycle.Database\\US\\Tables\\US.TaxParameter.sql"
+			],
+			[
+				"taxparameterlistitem.testdata.generated.cs",
+				"project\\Paycycle.Tests.Common\\USSettings\\TaxParameterListItem.TestData.Generated.cs"
+			],
+			[
+				"taxparameter.data.sql",
+				"project\\Paycycle.Database\\Scripts\\Post-Deployment\\ReferenceData\\US.TaxParameter.data.sql"
+			],
+			[
+				"taxparameter.testdata.generated.cs",
+				"project\\Paycycle.Tests.Common\\USSettings\\TaxParameter.TestData.Generated.cs"
+			],
+			[
+				"us.taxparameterlistitem.data.sql",
+				"project\\Paycycle.Database\\Scripts\\Post-Deployment\\ReferenceData\\US.TaxParameterListItem.data.sql"
+			],
+			[
+				"taxparameter.cs",
+				"project\\Paycycle.DomainModel\\Entities\\USSettings\\TaxParameter.cs"
+			],
+			[
+				"_payruns.sc",
+				"project\\Paycycle.MVC3\\scripts\\src\\scss\\views\\_payruns.scss"
+			],
+			[
+				"taxparameterlistitem.data.sql",
+				"project\\Paycycle.Database\\Scripts\\Post-Deployment\\ReferenceData\\US.TaxParameterListItem.data.sql"
+			],
+			[
+				"taxparameterlistitem.data",
+				"project\\Paycycle.Database\\Scripts\\Post-Deployment\\ReferenceData\\US.TaxParameterListItem.data.sql"
+			],
+			[
+				"taxdefinition.data",
+				"project\\Paycycle.Database\\Scripts\\Post-Deployment\\ReferenceData\\US.TaxDefinition.data.sql"
+			],
+			[
+				"arizona",
+				"project\\Paycycle.USTaxCalculator.Tests\\Common\\TaxCalculations\\Supported2016\\ArizonaStateTaxTests_2016.cs"
+			],
+			[
+				"taxdefinition",
+				"project\\Paycycle.Database\\Scripts\\Post-Deployment\\ReferenceData\\US.TaxDefinition.data.sql"
+			],
+			[
+				"fluentextensions",
+				"project\\Paycycle.USTaxCalculator.Tests\\FluentExtensions.cs"
+			],
+			[
+				"fluentextensions.cs",
+				"project\\Paycycle.UKTaxEngine.Tests\\FluentExtensions.cs"
+			],
+			[
+				"arizonastatetaxtests_2016",
+				"project\\Paycycle.USTaxCalculator.Tests\\Common\\TaxCalculations\\Supported2016\\ArizonaStateTaxTests_2016.cs"
+			],
+			[
+				"arizonataxcal",
+				"project\\Paycycle.Symmetry\\Builders\\States\\ArizonaTaxCalcBuilder.cs"
+			],
+			[
+				"",
+				"project\\Paycycle.Database\\Scripts\\Post-Deployment\\ReferenceData\\US.TaxParameterListItem.data.sql"
+			],
+			[
+				"taxparameter.data",
+				"project\\Paycycle.DomainModel\\Entities\\USSettings\\PayeeTaxParameterValue.MetaData.cs"
+			],
+			[
+				"system.helptext.data",
+				"project\\Paycycle.Database\\Scripts\\Post-Deployment\\ReferenceData\\System.HelpText.data.sql"
+			],
+			[
+				"web.dev.config",
+				"project\\Paycycle.MVC3\\Web.Dev.config"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 820.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Works/code-practice/sublime/code-practice.sublime-workspace"
+			]
+		],
+		"width": 760.0
+	},
+	"select_symbol":
+	{
+		"height": 784.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 1938.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 244.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
