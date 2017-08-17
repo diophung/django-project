@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Please log in</title>
+    </head>
+    <body>
+        {% if form.errors %}
+            <p>User name and password didn't match.</p>
+        {% endif %}
+        <form role="form" method="post" action="{% url 'boardgames_login' %}">
+            {% csrf_token %}
+            {{ form }}
+            <input type="submit" value="Login" />
+            <input type="hidden" name="next" value="{{ next }}" />
+        </form>
+    </body>
+</html>

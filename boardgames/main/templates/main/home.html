@@ -1,9 +1,14 @@
-<!DOCTYPE html>
-<html>
-    <head></head>
-    <body>
-        <h1>
-            {{ message }}
-        </h1>
-    </body>
-</html>
+{% extends "base.html" %}
+
+{% block content %}
+{% if user.is_authenticated %}
+    <div class="jumpbotron">
+        <h1>Welcome to Dashboard Games, {{ user.username }}</h1>
+    </div>
+    <li><a href="{% url 'boardgames_logout' %}">Logout</a></li>
+{% else %}
+    <h1>You are not logged in.</h1>
+    <li><a href="{% url 'boardgames_login' %}">Login</a></li>
+{% endif %}
+
+{% endblock content %}
