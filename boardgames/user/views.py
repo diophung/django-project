@@ -14,4 +14,5 @@ def home(request):
         'waiting_games': waiting_games,
         'finished_games': finished_games
     }
+    print(context)
     return render(request, "user/home.html", context)

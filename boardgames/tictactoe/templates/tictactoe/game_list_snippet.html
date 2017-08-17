@@ -1,7 +1,7 @@
 <h3 class="panel-heading"> {{ header }}</h3>
 
 <div class="list-group">
-    {% for game in game_list %}
+    {% for game in games_list %}
         <a class="list-group-item" href="#">
             {{ game }}
             {% if game.status == "A" %}
