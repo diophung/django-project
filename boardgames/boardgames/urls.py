@@ -19,14 +19,16 @@ from django.contrib.auth import views as auth_view
 
 from main import views as main_views
 from user import views as user_views
+from tictactoe import views as tictactoe_views
+
 admin.autodiscover()
 
-
 urlpatterns = [
+    url(r'^user/', user_views.home, name="user_home"),
     url(r'^admin/', admin.site.urls, name='boardgames_admin'),
     url(r'^$', main_views.home, name='boardgames_main_home'),
     url(r'^home/', main_views.home, name='boardgames_main_home'),
-    url(r'^user/', user_views.home, name="user_home"),
     url(r'^login/', auth_view.login, {'template_name': 'login.html'}, name='boardgames_login'),
-    url(r'^logout/', auth_view.logout, {'next_page': 'boardgames_main_home'}, name='boardgames_logout')
+    url(r'^logout/', auth_view.logout, {'next_page': 'boardgames_main_home'}, name='boardgames_logout'),
+    url(r'^tictactoe/new', tictactoe_views.new_invitation, name="tictactoe_new_invitation")
 ]
