@@ -30,5 +30,6 @@ urlpatterns = [
     url(r'^home/', main_views.home, name='boardgames_main_home'),
     url(r'^login/', auth_view.login, {'template_name': 'login.html'}, name='boardgames_login'),
     url(r'^logout/', auth_view.logout, {'next_page': 'boardgames_main_home'}, name='boardgames_logout'),
-    url(r'^tictactoe/new', tictactoe_views.new_invitation, name="tictactoe_new_invitation")
+    url(r'^tictactoe/new_invitation', tictactoe_views.new_invitation, name="tictactoe_new_invitation"),
+    url(r'^tictactoe/view_invitation', tictactoe_views.view_invitation, name="tictactoe_view_invitation")
 ]

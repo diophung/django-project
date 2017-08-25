@@ -15,3 +15,9 @@ def new_invitation(request):
     else:  # GET
         form = InvitationForm()
     return render(request, "tictactoe/new_invitation.html", {'form': form})
+
+
+@login_required
+def view_invitation(request):
+    invites = Invitation.objects.invitation_for_user(request.user)
+    return render(request, "tictactoe/view_invitation.html", {'invites': invites})

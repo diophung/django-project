@@ -21,6 +21,16 @@ class GamesManager(models.Manager):
             Q(first_player_id=user.id) | Q(second_player_id=user.id))
 
 
+class InvitationManager(models.Manager):
+    def invitation_for_user(self, user):
+        """
+        Return a queryset of invitation that user received
+        :param user:
+        :return:
+        """
+        return super(InvitationManager, self).get_queryset().filter(Q(to_user_id=user.id))
+
+
 class Game(models.Model):
     first_player = models.ForeignKey(User, related_name="game_first_player")
     second_player = models.ForeignKey(User, related_name="game_second_player")
@@ -46,3 +56,4 @@ class Invitation(models.Model):
     to_user = models.ForeignKey(User, related_name="invitation_received")
     message = models.CharField(max_length=300)
     timestamp = models.DateTimeField(auto_now_add=True)
+    objects = InvitationManager()

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Komodo Project File - DO NOT EDIT -->
+<project id="99010b92-ac36-9b4d-96ff-a240ac1d15b0" kpf_version="5" name="django-project.komodoproject">
+<livefolder id="04449cb4-771a-de4e-b6ff-812b9cebf531" idref="99010b92-ac36-9b4d-96ff-a240ac1d15b0" name="django-project" url="file:///Users/dio/Works/django-project">
+</livefolder>
+<preference-set idref="99010b92-ac36-9b4d-96ff-a240ac1d15b0" id="project" preftype="project">
+  <long id="prefs_version">1</long>
+</preference-set>
+</project>

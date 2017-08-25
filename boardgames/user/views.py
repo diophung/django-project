@@ -2,7 +2,7 @@ from django.shortcuts import render
 from django.contrib.auth.decorators import login_required
 from tictactoe.models import Game
 
-@login_required()
+@login_required
 def home(request):
     my_games = Game.objects.games_for_user(request.user)
     active_games = my_games.filter(status="A")
@@ -14,5 +14,11 @@ def home(request):
         'waiting_games': waiting_games,
         'finished_games': finished_games
     }
-    print(context)
     return render(request, "user/home.html", context)
+
+@login_required
+def add(request):
+    """
+    Add new user
+    """
+    return render(request, "user/add.html")
