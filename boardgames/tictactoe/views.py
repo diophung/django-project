@@ -11,7 +11,7 @@ def new_invitation(request):
         form = InvitationForm(data=request.POST)
         if form.is_valid():
             form.save()
-            return redirect('user_home')
+            return redirect("user_home")
     else:  # GET
         form = InvitationForm()
     return render(request, "tictactoe/new_invitation.html", {'form': form})

@@ -7,7 +7,7 @@ New Invitation
 {% block content %}
     <div class="well col-md-6">
         <p>Please pick player you want to invite</p>
-        <!--empty action means sending to same URL-->
+        <!--empty action i.e sending to same URL-->
         <form action="" method="post">
             {% csrf_token %}
             {{ form }}
